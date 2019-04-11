@@ -10,7 +10,11 @@ Making HEP (High-Energy Physics) domain-specific figures easily in matplotlib
 
 .. inclusion-marker-1-5-do-not-remove
 
-This package is currently a strawman, consisting of a gallery of examples and a specification document
+This package is currently a strawman, the roadmap consists of:
+   1. Collecting a gallery of plotting examples, demonstrating common HEP use cases for matplotlib
+   2. Identifying common usage patterns that would be better served by an interface package
+   3. Establishing a specification document
+   4. Writing an implementation
 
 .. inclusion-marker-2-do-not-remove
 
