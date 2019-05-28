@@ -14,15 +14,15 @@ This package is currently a strawman, the roadmap consists of:
 
 Gallery
 =======
-The gallery concept is exemplified by matplotlib (itself)[https://matplotlib.org/gallery.html].  The concept is
+The gallery concept is exemplified by matplotlib [itself](https://matplotlib.org/gallery.html).  The concept is
 that the simplest way for a user to learn how to produce a particular plot style is to copy an example and work from there.
 We have started a gallery for comment HEP plot styles within this package (`binder/gallery.ipynb`, accessible via the binder link.)
 
 Sources of inspiration for this gallery have come from the following packages:
-   - (SciKit-HEP)[http://scikit-hep.org/examples/examples.html]
-   - (FAST-plotter)[https://gitlab.cern.ch/fast-hep/public/fast-plotter/]
-   - (Coffea)[https://github.com/CoffeaTeam/fnal-column-analysis-tools]
-   - (rootpy)[http://www.rootpy.org/auto_examples/plotting/plot_matplotlib_hist.html]
+   - [SciKit-HEP](http://scikit-hep.org/examples/examples.html)
+   - [FAST-plotter](https://gitlab.cern.ch/fast-hep/public/fast-plotter/)
+   - [Coffea](https://github.com/CoffeaTeam/fnal-column-analysis-tools)
+   - [rootpy](http://www.rootpy.org/auto_examples/plotting/plot_matplotlib_hist.html)
 
 
 Rosetta stone
