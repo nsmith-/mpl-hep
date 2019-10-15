@@ -76,4 +76,4 @@ For `ax.text`, the `transform` [argment](https://matplotlib.org/3.1.0/gallery/py
 # Style
 Both ROOT and mpl provide stylesheet functionality, through [TStyle](https://root.cern.ch/doc/master/classTStyle.html) and
 [rcParams](https://matplotlib.org/users/customizing.html), respectively.
-An example library implementing some CMS experiment styles is available in https://github.com/andrzejnovak/CMSStylempl.
+An example library implementing some CMS experiment styles is available in https://github.com/andrzejnovak/mplhep.
